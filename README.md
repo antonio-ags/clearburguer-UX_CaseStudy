@@ -1,9 +1,12 @@
-## Introduction
------
+# Introduction
+
+<br>
+
 ## Project Overview
 UX/UI design case study focused on usability evaluation and user experience analysis within the digital restaurant context. Developed as part of the User Interfaces Design course in the BS in Computer Science at the University of Granada (UGR), this project comprises a comprehensive user research and evaluation phase (including accessibility audits, SUS questionnaires, A/B testing, and eye-tracking analysis) followed by the design and implementation of a fully functional web application featuring an advanced burger customization system for a local restaurant.
 
 Original repository submitted to the university: [UX_CaseStudy](https://github.com/DIU3-DarkPatterns/UX_CaseStudy)
+<br>
 Our WEB: [clearburger-diu3.surge.sh](https://clearburger-diu3.surge.sh)
 
 ## Structure
